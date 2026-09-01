@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbe6f52a-c438-4a11-b012-e0091fce3b97" name="Changes" comment="adicionando atualizações" />
+    <list default="true" id="cbe6f52a-c438-4a11-b012-e0091fce3b97" name="Changes" comment="conteudo de operacoes aritmeticos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Aulas_Python_rafael.oliveira" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -28,7 +30,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Rafaeldo15/PythonProject-aulas.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/Rafaeldo15/Aulas_python.git&quot;,
     &quot;accountId&quot;: &quot;f3083741-e43b-43e5-9d29-63e49b41920a&quot;
   }
 }</component>
@@ -40,24 +42,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.questao 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.questao_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.questao_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.questao_7.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Noturno/PycharmProjects/PythonProject&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Media Aritimetrica.executor": "Run",
+    "Python.Media aritmetica.executor": "Run",
+    "Python.questao 2.executor": "Run",
+    "Python.questao_5.executor": "Run",
+    "Python.questao_6.executor": "Run",
+    "Python.questao_7.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Noturno/PycharmProjects/PythonProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Noturno\PycharmProjects\Aulas_Python_rafael.oliveira\PythonProject\coisas_aleatorias" />
@@ -85,6 +90,9 @@
       <workItem from="1788214359442" duration="6500000" />
       <workItem from="1788300729464" duration="1330000" />
       <workItem from="1788302080439" duration="115000" />
+      <workItem from="1788302413759" duration="118000" />
+      <workItem from="1788303106331" duration="47000" />
+      <workItem from="1788303179757" duration="1143000" />
     </task>
     <task id="LOCAL-00001" summary="adicionando atualizações">
       <option name="closed" value="true" />
@@ -134,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788301895012</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="conteudo de operacoes aritmeticos">
+      <option name="closed" value="true" />
+      <created>1788303486576</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1788303486576</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,11 +158,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adicionando atualizações" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionando atualizações" />
+    <MESSAGE value="conteudo de operacoes aritmeticos" />
+    <option name="LAST_COMMIT_MESSAGE" value="conteudo de operacoes aritmeticos" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$questao_7.coverage" NAME="questao_7 Coverage Results" MODIFIED="1788223186603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/CURSO_PYTHON" />
+    <SUITE FILE_PATH="coverage/Aulas_python$Media_Aritimetrica.coverage" NAME="Media Aritimetrica Coverage Results" MODIFIED="1788303346109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aulas" />
     <SUITE FILE_PATH="coverage/PythonProject$questao_5.coverage" NAME="questao_5 Coverage Results" MODIFIED="1788217837287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/CURSO_PYTHON/.venv" />
+    <SUITE FILE_PATH="coverage/Aulas_python$Media_aritmetica.coverage" NAME="Media aritmetica Coverage Results" MODIFIED="1788303424381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aulas" />
     <SUITE FILE_PATH="coverage/PythonProject$questao_6.coverage" NAME="questao_6 Coverage Results" MODIFIED="1788222169006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/CURSO_PYTHON" />
     <SUITE FILE_PATH="coverage/PythonProject$questao_2.coverage" NAME="questao 2 Coverage Results" MODIFIED="1788219109616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject/CURSO_PYTHON" />
   </component>
