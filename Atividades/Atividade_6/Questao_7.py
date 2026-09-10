@@ -1,11 +1,10 @@
 orcamento = float(input("Digite o valor do orcamento: "))
 
-while orcamento >=0:
+while orcamento > 0:
 
     gasto= float(input("Digite o valor do gasto: "))
-    resultado = orcamento - gasto
+    orcamento -= gasto
 
-print(resultado)
+print (f"Voce ficou sem saldo ou ultrapassou o orçamento. o valor ficou em :  {orcamento:.2f} ")
 
-    if resultado <= 0.00:
-        print("voce está ficando sem saldo ou estourou o orçamento")
+
