@@ -1,9 +1,15 @@
-numero_palpite= int(input("digite um numero inteiro: "))
+numero_palpite = int(input("digite um numero inteiro: "))
 inicio= 0
-fim = 10
+
+while True:
+    resultado= numero_palpite * inicio
+    print(f"{numero_palpite}*{inicio} = {resultado}")
+    inicio += 1
 
 
-while inicio == 1 and fim == 10:
+    if inicio == 11:
+        break
 
-print(inicio)
+
+
 
