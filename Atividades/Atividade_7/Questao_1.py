@@ -24,7 +24,7 @@ while True:
         if i == "Felipe":
             lista_funcionario.remove(i)
 
-    print(f"lista de  funcionario : {lista_funcionario} e lista de demitido: {lista_demitido}")
+    print(f"lista de  funcionario que ganharão aumento: {lista_funcionario} e lista de demitido: {lista_demitido}")
 
     if opcao == "N":
         break

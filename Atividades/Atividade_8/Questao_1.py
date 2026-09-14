@@ -8,8 +8,12 @@ def nota ():
     nota3 = float(input("Digite a terceira nota: "))
     nota4 = float(input("Digite a quarta nota: "))
     media = (nota1 + nota2 + nota3 + nota4) / 4
-    return print("suas notas: ", nota1, nota2, nota3, nota4,"sua media foi de:", media)
+    if media >= 7:
+        print(f"{aluno()}você teve média maior que 7 e foi aprovado")
+    else:
+        print(f"{aluno()} você teve média menor que 7 e foi reprovado")
 
+    return print(f"{aluno()} suas notas: ", nota1, nota2, nota3, nota4,"e a media foi de:", media)
 
 aluno()
 nota()
