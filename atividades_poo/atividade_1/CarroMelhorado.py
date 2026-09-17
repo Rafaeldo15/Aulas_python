@@ -6,8 +6,7 @@ class Carro:
         self.potencia = potencia
         self.aceleracao = aceleracao
 
-    def MostrarCarro(self):
-        print(self.marca, self.modelo, self.ano, self.potencia, self.aceleracao)
+
 
     def __str__(self):
         return (f"\tMarca  {self.marca}\n"
@@ -16,6 +15,8 @@ class Carro:
                 f"\tPotência {self.potencia}\n"
                 f"\tAceleracao {self.aceleracao} segundos"
                 )
+
+garagem = []
 
 carro1= Carro(
     "Volks",
