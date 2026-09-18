@@ -6,8 +6,8 @@ class Carro:
         self.potencia = potencia
         self.aceleracao = aceleracao
 
-    def MostrarCarro(self):
-        print(self.marca, self.modelo, self.ano, self.potencia, self.aceleracao)
+   # def MostrarCarro(self):
+        #print(self.marca, self.modelo, self.ano, self.potencia, self.aceleracao)
 
     def __str__(self):
         return (f"\tMarca  {self.marca}\n"
@@ -37,7 +37,7 @@ carro3 = Carro(
     "corolla",
     "2015",
     "2.0 aspirado",
-     "8.5"
+    "8.5"
 
 )
 
@@ -47,13 +47,13 @@ print(carro2)
 print("")
 print(carro3)
 
-carro4=Carro(
-    input("digite a marca do carro 4:"),
-    input("digite a modelo do carro 4:"),
-    input("digite a ano do carro 4:"),
-    input("digite a potencia do carro 4:"),
-    input("digite a aceleracao do carro 4:")
-)
+#carro4=Carro(
+    #input("digite a marca do carro 4:"),
+    #input("digite a modelo do carro 4:"),
+    #input("digite a ano do carro 4:"),
+    #input("digite a potencia do carro 4:"),
+    #input("digite a aceleracao do carro 4:")
+#)
 
-print("")
-print(carro4)
+#print("")
+#print(carro4)
