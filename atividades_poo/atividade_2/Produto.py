@@ -16,9 +16,6 @@ class Produto:
         if self.__quantidade_estoque > 0:
             self.__quantidade_estoque -= 1
 
-    def adicionar_preco(self, preco):
-        if preco > 0:
-            self.__preco = preco
 
 produto1= Produto(
     "Sabão",
