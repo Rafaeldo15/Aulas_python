@@ -1,0 +1,6 @@
+RECIBO DO CARRINHO
+
+['Shampoo', 30.0]Produto: Shampoo R$30.00
+Produto: condicionador R$40.00
+
+Total a pagar: 70.00
