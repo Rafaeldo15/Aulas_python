@@ -20,6 +20,6 @@ def divisao():
 
 
 
-def olausuario(nome)
+def olausuario(nome):
     print (f"Ola {nome}")
     return
