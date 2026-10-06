@@ -38,9 +38,11 @@ def somar_todas_as_vendas(valor_total = 0):
 def achar_vendedor():
     with open("vendas.txt", "r", encoding="utf-8") as arquivo:
         linhas = arquivo.readlines()
+
         for linha in linhas:
+            procurar_vendedor = input("Digite o nome do vendedor que deseja informações: ")
             linha = linha.strip().split(";")
-            if linha[0] == "João":
+            if linha[0] == procurar_vendedor:
                 print(f"O {linha[0]} fez a venda de {linha[1]} por {linha[2]}")
 
 def maior_venda():
@@ -67,7 +69,7 @@ def menor_venda():
 
         menor_valor = min(valores_vendas)
 
-        print(f'O maior valor de venda: {menor_valor}')
+        print(f'O menor valor de venda: {menor_valor}')
 
 # SIMULANDO UM SISTEMA FUNCIONAL
 while True:
