@@ -1,0 +1,37 @@
+[
+    {
+        "id": 31,
+        "nome": "Decubra seus pontos fortes",
+        "descricao": "auto-ajuda",
+        "preco": 39.9,
+        "em_estoque": 10
+    },
+    {
+        "id": 32,
+        "nome": "A Arte da Guerra",
+        "descricao": "História",
+        "preco": 29.9,
+        "em_estoque": 25
+    },
+    {
+        "id": 34,
+        "nome": "50 tons de cinza",
+        "descricao": "Romance",
+        "preco": 12.9,
+        "em_estoque": 15
+    },
+    {
+        "id": 35,
+        "nome": "A Musa do Verão",
+        "descricao": "Comédia",
+        "preco": 22.9,
+        "em_estoque": 16
+    },
+    {
+        "id": 36,
+        "nome": "Maria Maria",
+        "descricao": "Auto-ajuda",
+        "preco": 15.9,
+        "em_estoque": 20
+    }
+]
