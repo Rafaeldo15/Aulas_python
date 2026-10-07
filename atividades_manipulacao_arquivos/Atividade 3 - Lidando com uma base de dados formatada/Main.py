@@ -71,23 +71,13 @@ def maior_media():
                 continue
 
             aluno = linha.strip().split(";")
-
-            # Supondo a estrutura: Nome;Turma;Nota1;Nota2;Nota3;Nota4
-            # Ajuste os índices [0] e [1] abaixo se a ordem do seu arquivo for diferente!
             nome = aluno[0]
             turma_aluno = aluno[1].strip()
-
-            # Verifica se o aluno pertence à turma digitada
             if turma_aluno == turma_digitada:
-                # Calcula a média das 4 notas (índices 2, 3, 4 e 5)
                 media = (float(aluno[2]) + float(aluno[3]) + float(aluno[4]) + float(aluno[5])) / 4
-
-                # Se esta média for maior que a maior encontrada até agora, atualiza
                 if media > maior_media_encontrada:
                     maior_media_encontrada = media
                     aluno_maior_media = nome
-
-    # Exibe o resultado após ler o arquivo completo
     if aluno_maior_media is not None:
         print(
             f"\nO aluno com a maior média na turma {turma_digitada} é {aluno_maior_media} com a média {maior_media_encontrada:.2f}")
