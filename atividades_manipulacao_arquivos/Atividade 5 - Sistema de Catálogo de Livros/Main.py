@@ -55,6 +55,8 @@ catalogo_livros.append({"id": 36,
                         "em_estoque": 20
                         })
 
+print ("\nProdutos adicionados com sucesso\n")
+
 with open("catalogo.json", "w", encoding="utf-8") as arquivo_json:
     json.dump(catalogo_livros, arquivo_json, indent=4, ensure_ascii=False)
 
@@ -84,7 +86,7 @@ def analistar_estoque():
                f"Valor total estoque : {total_estoque:.2f}\n")
 
 
-
+print ("\n Averiguando produtos do estoque\n ")
 
 verificar_baixo_estoque()
 analistar_estoque()
