@@ -1,0 +1,34 @@
+[
+    [
+        {
+            "cep": "72220-089",
+            "logradouro": "Quadra QNN 8 Conjunto I",
+            "complemento": "",
+            "unidade": "",
+            "bairro": "CeilÃ¢ndia Sul",
+            "localidade": "BrasÃ­lia",
+            "uf": "DF",
+            "estado": "Distrito Federal",
+            "regiao": "Centro-Oeste",
+            "ibge": "5300108",
+            "gia": "",
+            "ddd": "61",
+            "siafi": "9701"
+        }
+    ],
+    {
+        "cep": "72855-852",
+        "logradouro": "Rua 02",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Jardim Europa",
+        "localidade": "Luziânia",
+        "uf": "GO",
+        "estado": "Goiás",
+        "regiao": "Centro-Oeste",
+        "ibge": "5212501",
+        "gia": "",
+        "ddd": "61",
+        "siafi": "9445"
+    }
+]
