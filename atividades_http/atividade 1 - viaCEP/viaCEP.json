@@ -1,0 +1,243 @@
+[
+    [
+        [
+            [
+                [
+                    [
+                        [
+                            [
+                                {
+                                    "cep": "72220-089",
+                                    "logradouro": "Quadra QNN 8 Conjunto I",
+                                    "complemento": "",
+                                    "unidade": "",
+                                    "bairro": "CeilÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ndia Sul",
+                                    "localidade": "BrasÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â­lia",
+                                    "uf": "DF",
+                                    "estado": "Distrito Federal",
+                                    "regiao": "Centro-Oeste",
+                                    "ibge": "5300108",
+                                    "gia": "",
+                                    "ddd": "61",
+                                    "siafi": "9701"
+                                }
+                            ],
+                            {
+                                "cep": "72855-852",
+                                "logradouro": "Rua 02",
+                                "complemento": "",
+                                "unidade": "",
+                                "bairro": "Jardim Europa",
+                                "localidade": "LuziÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢nia",
+                                "uf": "GO",
+                                "estado": "GoiÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡s",
+                                "regiao": "Centro-Oeste",
+                                "ibge": "5212501",
+                                "gia": "",
+                                "ddd": "61",
+                                "siafi": "9445"
+                            }
+                        ],
+                        {
+                            "cep": "72220-090",
+                            "logradouro": "Quadra QNN 8 Conjunto J",
+                            "complemento": "",
+                            "unidade": "",
+                            "bairro": "CeilÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ndia Sul",
+                            "localidade": "BrasÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â­lia",
+                            "uf": "DF",
+                            "estado": "Distrito Federal",
+                            "regiao": "Centro-Oeste",
+                            "ibge": "5300108",
+                            "gia": "",
+                            "ddd": "61",
+                            "siafi": "9701"
+                        },
+                        {
+                            "cep": "72135-240",
+                            "logradouro": "Quadra QI 24",
+                            "complemento": "",
+                            "unidade": "",
+                            "bairro": "Setor Industrial (Taguatinga)",
+                            "localidade": "BrasÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â­lia",
+                            "uf": "DF",
+                            "estado": "Distrito Federal",
+                            "regiao": "Centro-Oeste",
+                            "ibge": "5300108",
+                            "gia": "",
+                            "ddd": "61",
+                            "siafi": "9701"
+                        }
+                    ]
+                ]
+            ],
+            {
+                "cep": "01001-000",
+                "logradouro": "PraÃƒÂ§a da SÃƒÂ©",
+                "complemento": "lado ÃƒÂ­mpar",
+                "unidade": "",
+                "bairro": "SÃƒÂ©",
+                "localidade": "SÃƒÂ£o Paulo",
+                "uf": "SP",
+                "estado": "SÃƒÂ£o Paulo",
+                "regiao": "Sudeste",
+                "ibge": "3550308",
+                "gia": "1004",
+                "ddd": "11",
+                "siafi": "7107"
+            }
+        ],
+        {
+            "cep": "72135-240",
+            "logradouro": "Quadra QI 24",
+            "complemento": "",
+            "unidade": "",
+            "bairro": "Setor Industrial (Taguatinga)",
+            "localidade": "BrasÃ­lia",
+            "uf": "DF",
+            "estado": "Distrito Federal",
+            "regiao": "Centro-Oeste",
+            "ibge": "5300108",
+            "gia": "",
+            "ddd": "61",
+            "siafi": "9701"
+        }
+    ],
+    {
+        "cep": "72220-085",
+        "logradouro": "Quadra QNN 8 Conjunto E",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Ceilândia Sul",
+        "localidade": "Brasília",
+        "uf": "DF",
+        "estado": "Distrito Federal",
+        "regiao": "Centro-Oeste",
+        "ibge": "5300108",
+        "gia": "",
+        "ddd": "61",
+        "siafi": "9701"
+    }
+][
+    [
+        [
+            [
+                [
+                    [
+                        [
+                            [
+                                [
+                                    {
+                                        "cep": "72220-089",
+                                        "logradouro": "Quadra QNN 8 Conjunto I",
+                                        "complemento": "",
+                                        "unidade": "",
+                                        "bairro": "CeilÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ndia Sul",
+                                        "localidade": "BrasÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â­lia",
+                                        "uf": "DF",
+                                        "estado": "Distrito Federal",
+                                        "regiao": "Centro-Oeste",
+                                        "ibge": "5300108",
+                                        "gia": "",
+                                        "ddd": "61",
+                                        "siafi": "9701"
+                                    }
+                                ],
+                                {
+                                    "cep": "72855-852",
+                                    "logradouro": "Rua 02",
+                                    "complemento": "",
+                                    "unidade": "",
+                                    "bairro": "Jardim Europa",
+                                    "localidade": "LuziÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢nia",
+                                    "uf": "GO",
+                                    "estado": "GoiÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡s",
+                                    "regiao": "Centro-Oeste",
+                                    "ibge": "5212501",
+                                    "gia": "",
+                                    "ddd": "61",
+                                    "siafi": "9445"
+                                }
+                            ],
+                            {
+                                "cep": "72220-090",
+                                "logradouro": "Quadra QNN 8 Conjunto J",
+                                "complemento": "",
+                                "unidade": "",
+                                "bairro": "CeilÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ndia Sul",
+                                "localidade": "BrasÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â­lia",
+                                "uf": "DF",
+                                "estado": "Distrito Federal",
+                                "regiao": "Centro-Oeste",
+                                "ibge": "5300108",
+                                "gia": "",
+                                "ddd": "61",
+                                "siafi": "9701"
+                            },
+                            {
+                                "cep": "72135-240",
+                                "logradouro": "Quadra QI 24",
+                                "complemento": "",
+                                "unidade": "",
+                                "bairro": "Setor Industrial (Taguatinga)",
+                                "localidade": "BrasÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â­lia",
+                                "uf": "DF",
+                                "estado": "Distrito Federal",
+                                "regiao": "Centro-Oeste",
+                                "ibge": "5300108",
+                                "gia": "",
+                                "ddd": "61",
+                                "siafi": "9701"
+                            }
+                        ]
+                    ]
+                ],
+                {
+                    "cep": "01001-000",
+                    "logradouro": "PraÃƒÆ’Ã‚Â§a da SÃƒÆ’Ã‚Â©",
+                    "complemento": "lado ÃƒÆ’Ã‚Â­mpar",
+                    "unidade": "",
+                    "bairro": "SÃƒÆ’Ã‚Â©",
+                    "localidade": "SÃƒÆ’Ã‚Â£o Paulo",
+                    "uf": "SP",
+                    "estado": "SÃƒÆ’Ã‚Â£o Paulo",
+                    "regiao": "Sudeste",
+                    "ibge": "3550308",
+                    "gia": "1004",
+                    "ddd": "11",
+                    "siafi": "7107"
+                }
+            ],
+            {
+                "cep": "72135-240",
+                "logradouro": "Quadra QI 24",
+                "complemento": "",
+                "unidade": "",
+                "bairro": "Setor Industrial (Taguatinga)",
+                "localidade": "BrasÃƒÂ­lia",
+                "uf": "DF",
+                "estado": "Distrito Federal",
+                "regiao": "Centro-Oeste",
+                "ibge": "5300108",
+                "gia": "",
+                "ddd": "61",
+                "siafi": "9701"
+            }
+        ],
+        {
+            "cep": "72220-085",
+            "logradouro": "Quadra QNN 8 Conjunto E",
+            "complemento": "",
+            "unidade": "",
+            "bairro": "CeilÃ¢ndia Sul",
+            "localidade": "BrasÃ­lia",
+            "uf": "DF",
+            "estado": "Distrito Federal",
+            "regiao": "Centro-Oeste",
+            "ibge": "5300108",
+            "gia": "",
+            "ddd": "61",
+            "siafi": "9701"
+        }
+    ]
+]

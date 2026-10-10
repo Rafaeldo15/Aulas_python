@@ -1,0 +1,2 @@
+class Combustivel:
+    pass

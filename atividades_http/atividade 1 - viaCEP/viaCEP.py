@@ -29,9 +29,14 @@ while True:
     print("Adicionado ao JSON com sucesso!")
     print(resposta.json())
 
-historico_pesquisa.extend(nova_pesquisa)
 
-with open("viaCEP.json", "w", encoding='utf-8' ) as file:
+
+
+#historico_pesquisa.extend(nova_pesquisa)
+
+with open("viaCEP.json", "a+", encoding='utf-8') as file:
     json.dump(historico_pesquisa, file, ensure_ascii=False, indent=4)
+
+
 
 
