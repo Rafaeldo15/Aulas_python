@@ -8,5 +8,5 @@ gasolina = Combustivel("Gasolina")
 diesel = Combustivel("Diesel")
 
 
-with open ("recibo_posto.txt"), "w" as arquivo:
+#with open ("recibo_posto.txt"), "w" as arquivo:
 
