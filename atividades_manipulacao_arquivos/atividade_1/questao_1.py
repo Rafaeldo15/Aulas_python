@@ -11,21 +11,24 @@ while True:
         print ("encerrando programa")
         break
     valor = float(input('Digite o valor do produto: '))
-    total = total + valor
+    total += valor
 
     carrinho.append([produto, valor])
 
 with open("carrinho.txt", 'w', encoding='utf-8') as arquivo:
-    for carrinho in carrinho:
-        nome_produto = carrinho[0]
-        preco_produto = carrinho[1]
+    arquivo.write(f"Usuario: {usuario}\n")
+    arquivo.write("-" * 30 + "\n")
 
-        arquivo.write(f"{nome_produto}: {preco_produto:.2f}\n")
+    for item in carrinho:
+        arquivo.write(f"{item[0]}: {item[1]:.2f}\n")
+        
+    arquivo.write("-" * 30 + "\n")
+    arquivo.write(f"Total = R${total:.2f} \n")
 
 
-
-print("\nProcessando pagamento\n")
-print(carrinho)
+print ("\n ---- PROCESSANDO PAGAMENTO ----\n")
+print(f" produtos adicionado ao carrinho {carrinho}")
+print(f"Total dos seus produtos foi {total}")
 
 
 
