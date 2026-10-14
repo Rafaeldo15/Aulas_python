@@ -1,0 +1,2 @@
+macarrao: 10.00
+feijao: 20.00
