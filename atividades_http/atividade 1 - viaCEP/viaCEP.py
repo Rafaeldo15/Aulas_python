@@ -1,7 +1,9 @@
 from operator import truediv
-
 import requests
 import json
+
+
+
 historico_pesquisa = []
 
 with open("viaCEP.json") as f:
