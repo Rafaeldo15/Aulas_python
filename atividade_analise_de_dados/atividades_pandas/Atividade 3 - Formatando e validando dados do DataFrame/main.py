@@ -19,7 +19,7 @@ dados_salario_formatados = (
     .str.replace(r"[^\d,.\-]", "", regex=True)
     .str.replace(r"\.(?=\d{3}(?:\.|,|$))", "", regex=True)
     .str.replace(r",", ".", regex=False)
-    .astype(float)#transfere STRING para FLOAT --so funciona se na string estiver só números--
+    .astype(float)#transfere STRING para FLOAT --so funciona se na string conter só números--
 )
 dados["salario_formatado"] = dados_salario_formatados
 
@@ -47,7 +47,7 @@ print("Arquivo 'dados_padronizados.csv' gerado com sucesso!")
 
 for index, linha in dados_padronizados.iterrows():
     if pd.isna(linha["nome"] or (linha["nome"].strip())) :
-        print (f"index {index} 'nome' sem valor")
+        print (f"index {index} 'nome'  sem valor")
         novo_nome = input ("Digite o nome para prencher esse INDEX: ")
         dados_padronizados["nome"].at[index, 'nome'] = novo_nome
     if pd.isna(linha["cpf"]):
